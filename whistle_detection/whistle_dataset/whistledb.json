@@ -1,0 +1,637 @@
+{
+  "audioFiles":
+  [
+    {
+      "path": "WhistleTest_tuhhnao12.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 3957000,
+              "end": 4020000
+            },
+            {
+              "start": 4611000,
+              "end": 4700000
+            },
+            {
+              "start": 5110000,
+              "end": 5170000
+            },
+            {
+              "start": 5689000,
+              "end": 5720000
+            },
+            {
+              "start": 5852000,
+              "end": 5900000
+            },
+            {
+              "start": 6233000,
+              "end": 6280000
+            },
+            {
+              "start": 7815000,
+              "end": 7880000
+            },
+            {
+              "start": 8447000,
+              "end": 8490000
+            },
+            {
+              "start": 9124000,
+              "end": 9180000
+            },
+            {
+              "start": 11795000,
+              "end": 11833000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 3957000,
+              "end": 4020000
+            },
+            {
+              "start": 4611000,
+              "end": 4700000
+            },
+            {
+              "start": 5110000,
+              "end": 5170000
+            },
+            {
+              "start": 5689000,
+              "end": 5720000
+            },
+            {
+              "start": 5852000,
+              "end": 5900000
+            },
+            {
+              "start": 6233000,
+              "end": 6280000
+            },
+            {
+              "start": 7815000,
+              "end": 7880000
+            },
+            {
+              "start": 8447000,
+              "end": 8490000
+            },
+            {
+              "start": 9124000,
+              "end": 9180000
+            },
+            {
+              "start": 11795000,
+              "end": 11833000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "WhistleTest_tuhhnao16.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 14930000,
+              "end": 14970000
+            },
+            {
+              "start": 19186000,
+              "end": 19250000
+            },
+            {
+              "start": 19840000,
+              "end": 19930000
+            },
+            {
+              "start": 20339000,
+              "end": 20400000
+            },
+            {
+              "start": 20918000,
+              "end": 20955000
+            },
+            {
+              "start": 21082000,
+              "end": 21140000
+            },
+            {
+              "start": 21463000,
+              "end": 21520000
+            },
+            {
+              "start": 23044000,
+              "end": 23110000
+            },
+            {
+              "start": 23676000,
+              "end": 23730000
+            },
+            {
+              "start": 24353000,
+              "end": 24410000
+            },
+            {
+              "start": 27023000,
+              "end": 27060000
+            },
+            {
+              "start": 27830000,
+              "end": 27880000
+            },
+            {
+              "start": 28075000,
+              "end": 28116000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 14930000,
+              "end": 14970000
+            },
+            {
+              "start": 19186000,
+              "end": 19250000
+            },
+            {
+              "start": 19840000,
+              "end": 19930000
+            },
+            {
+              "start": 20339000,
+              "end": 20400000
+            },
+            {
+              "start": 20918000,
+              "end": 20955000
+            },
+            {
+              "start": 21082000,
+              "end": 21140000
+            },
+            {
+              "start": 21463000,
+              "end": 21520000
+            },
+            {
+              "start": 23044000,
+              "end": 23110000
+            },
+            {
+              "start": 23676000,
+              "end": 23730000
+            },
+            {
+              "start": 24353000,
+              "end": 24410000
+            },
+            {
+              "start": 27023000,
+              "end": 27060000
+            },
+            {
+              "start": 27830000,
+              "end": 27880000
+            },
+            {
+              "start": 28075000,
+              "end": 28116000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "LUnitedvsUPenn20170728.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 1557000,
+              "end": 1600000
+            },
+            {
+              "start": 30438000,
+              "end": 30490000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 1557000,
+              "end": 1600000
+            },
+            {
+              "start": 30438000,
+              "end": 30490000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "LUnitedvsUPenn20170728Half2.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 5557000,
+              "end": 5600000
+            },
+            {
+              "start": 22409000,
+              "end": 22440000
+            },
+            {
+              "start": 25604000,
+              "end": 25650000
+            },
+            {
+              "start": 37570000,
+              "end": 37670000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 5557000,
+              "end": 5600000
+            },
+            {
+              "start": 22409000,
+              "end": 22440000
+            },
+            {
+              "start": 25604000,
+              "end": 25650000
+            },
+            {
+              "start": 37570000,
+              "end": 37670000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Lab_Fox40_vs_printed.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 1748000,
+              "end": 1770000
+            },
+            {
+              "start": 1905000,
+              "end": 1930000
+            },
+            {
+              "start": 2142000,
+              "end": 2170000
+            },
+            {
+              "start": 2489000,
+              "end": 2515000
+            },
+            {
+              "start": 2641000,
+              "end": 2670000
+            },
+            {
+              "start": 2861000,
+              "end": 2890000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 1748000,
+              "end": 1770000
+            },
+            {
+              "start": 1905000,
+              "end": 1930000
+            },
+            {
+              "start": 2142000,
+              "end": 2170000
+            },
+            {
+              "start": 2489000,
+              "end": 2515000
+            },
+            {
+              "start": 2641000,
+              "end": 2670000
+            },
+            {
+              "start": 2861000,
+              "end": 2890000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "HTWK_Dutch_05_04_2017.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 3151000,
+              "end": 3195000
+            },
+            {
+              "start": 11321000,
+              "end": 11370000
+            },
+            {
+              "start": 20651000,
+              "end": 20690000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 3151000,
+              "end": 3195000
+            },
+            {
+              "start": 11321000,
+              "end": 11370000
+            },
+            {
+              "start": 20651000,
+              "end": 20690000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "HTWK_Dutch_05_04_2017-2.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 2857000,
+              "end": 2905000
+            },
+            {
+              "start": 3657000,
+              "end": 3745000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 2857000,
+              "end": 2905000
+            },
+            {
+              "start": 3657000,
+              "end": 3745000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "HTWK_HULKs_1930_2016_04_29.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 9512000,
+              "end": 9550000,
+              "coreStart": 9514000,
+              "coreEnd": 9533000
+            },
+            {
+              "start": 15566000,
+              "end": 15605000,
+              "coreStart": 15569000,
+              "coreEnd": 15588000
+            },
+            {
+              "start": 20818000,
+              "end": 20853000,
+              "coreStart": 20821000,
+              "coreEnd": 20836000
+            },
+            {
+              "start": 28975000,
+              "end": 29015000,
+              "coreStart": 28976000,
+              "coreEnd": 28997000
+            },
+            {
+              "start": 29886000,
+              "end": 29922000,
+              "coreStart": 29887000,
+              "coreEnd": 29915000
+            },
+            {
+              "start": 38729000,
+              "end": 38795000,
+              "coreStart": 38756000,
+              "coreEnd": 38781000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 9512000,
+              "end": 9550000,
+              "coreStart": 9514000,
+              "coreEnd": 9533000
+            },
+            {
+              "start": 15566000,
+              "end": 15605000,
+              "coreStart": 15569000,
+              "coreEnd": 15588000
+            },
+            {
+              "start": 20818000,
+              "end": 20853000,
+              "coreStart": 20821000,
+              "coreEnd": 20836000
+            },
+            {
+              "start": 28975000,
+              "end": 29015000,
+              "coreStart": 28976000,
+              "coreEnd": 28997000
+            },
+            {
+              "start": 29886000,
+              "end": 29922000,
+              "coreStart": 29887000,
+              "coreEnd": 29915000
+            },
+            {
+              "start": 38729000,
+              "end": 38795000,
+              "coreStart": 38756000,
+              "coreEnd": 38781000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "SRC_Dutch_05-04-2017.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 2250000,
+              "end": 2290000,
+              "coreStart": 2251000,
+              "coreEnd": 2273000
+            },
+            {
+              "start": 2758000,
+              "end": 2795000,
+              "coreStart": 2759000,
+              "coreEnd": 2780000
+            },
+            {
+              "start": 29327000,
+              "end": 29410000,
+              "coreStart": 29376000,
+              "coreEnd": 29398000
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 2250000,
+              "end": 2290000,
+              "coreStart": 2251000,
+              "coreEnd": 2273000
+            },
+            {
+              "start": 2758000,
+              "end": 2795000,
+              "coreStart": 2759000,
+              "coreEnd": 2780000
+            },
+            {
+              "start": 29327000,
+              "end": 29410000,
+              "coreStart": 29376000,
+              "coreEnd": 29398000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "TestBHuman_03_05_2017_1413.wav",
+      "channels":
+      [
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 445000,
+              "end": 480000,
+              "coreStart": 447000,
+              "coreEnd": 455000
+            },
+            {
+              "start": 3065000,
+              "end": 3110000,
+              "coreStart": 0,
+              "coreEnd": 0
+            }
+          ]
+        },
+        {
+          "completelyLabeled": true,
+          "whistleLabels":
+          [
+            {
+              "start": 445000,
+              "end": 480000,
+              "coreStart": 447000,
+              "coreEnd": 455000
+            },
+            {
+              "start": 3065000,
+              "end": 3110000,
+              "coreStart": 0,
+              "coreEnd": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
